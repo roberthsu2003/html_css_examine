@@ -8,7 +8,7 @@
 
 3. ### 將github設定為page,首頁名稱使用index.html
 
-## 製作Responsive Web Design (RWD)
+## 製作Responsive Web Design (RWD)的導覽列
 ### 第2部份建立頁面根容器(root)在各種viewport的最大寬度
 
 1. ### 套用bootstrap的css和js檔
@@ -20,6 +20,14 @@
    ![](images/pic1.png)
 
 # 網頁驗收第2階段-得分70分
+## 製作Responsive Web Design (RWD)的內容
+
+1. ### 建立html的layout-header,content,footer
+    - 使用display:grid
+  
+2. ### 建立content內,9個section區
+   
+![](images/pic2.png)
 
 
 
