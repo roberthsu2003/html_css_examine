@@ -43,6 +43,11 @@
   
 ![](images/pic4.png)
 
+# 網頁驗收第5階段-得分100分
+### main部份
+
+![](images/pic5.png)
+
 
 
 
