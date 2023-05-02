@@ -34,7 +34,14 @@
 ### header部份
 ![](images/pic3.png)
 
+# 網頁驗收第4階段-得分90分
 ### fooder部份
+- 加入svg圖片和文字
+- ul使用display:flex做layout
+- a:link
+- a:hover
+  
+![](images/pic4.png)
 
 
 
